@@ -12,3 +12,4 @@ python-dotenv==0.21.0
 virtualenv==20.17.1
 Werkzeug==2.2.2
 WTForms==3.0.1
+gunicorn
